@@ -1,3 +1,0 @@
-/home/jonathas/PayFaceProjects/payface-app-store-client/PayFaceDlib/opencv411/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
-/home/jonathas/PayFaceProjects/payface-app-store-client/PayFaceDlib/opencv411/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
-/home/jonathas/PayFaceProjects/payface-app-store-client/PayFaceDlib/opencv411/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/opencv_jni_shared.dir

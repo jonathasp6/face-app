@@ -1,3 +1,0 @@
-/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/rebuild_cache.dir
-/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/edit_cache.dir
-/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/neon_test_build/CMakeFiles/neon_test.dir
