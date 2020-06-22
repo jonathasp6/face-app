@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/src/main/cpp/CMakeLists.txt",
+    "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/cppLibs/dlib/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "openblas-Release-armeabi-v7a": {
+      "artifactName": "openblas",
+      "abi": "armeabi-v7a",
+      "output": "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/src/main/cpp/../../../cppLibs/openblas/armeabi-v7a/lib/libopenblas.a"
+    },
+    "dlib-Release-armeabi-v7a": {
+      "artifactName": "dlib",
+      "buildCommand": "/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a --target dlib",
+      "abi": "armeabi-v7a",
+      "output": "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/libdlib.a"
+    },
+    "opencv_java4-Release-armeabi-v7a": {
+      "artifactName": "opencv_java4",
+      "abi": "armeabi-v7a",
+      "output": "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/src/main/cpp/../../../opencv411/native/libs/armeabi-v7a/libopencv_java4.so"
+    },
+    "face-Release-armeabi-v7a": {
+      "artifactName": "face",
+      "buildCommand": "/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a --target face",
+      "abi": "armeabi-v7a",
+      "output": "/home/jonathas/AndroidStudioProjects/face-app/facelibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/libface.so"
+    }
+  }
+}

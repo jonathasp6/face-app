@@ -1,0 +1,3 @@
+include ':app', ':facelibrary', ':opencv411'
+rootProject.name='face-app'
+project(':opencv411').projectDir = new File('facelibrary/opencv411')

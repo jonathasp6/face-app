@@ -1,0 +1,16 @@
+ *****************************************************************************
+ *** DLIB GUI SUPPORT DISABLED BECAUSE X11 DEVELOPMENT LIBRARIES NOT FOUND ***
+ *** Make sure libx11-dev is installed if you want GUI support.            ***
+ *** On Ubuntu run: sudo apt-get install libx11-dev                        ***
+ *****************************************************************************
+ *****************************************************************************
+ *** No BLAS library found so using dlib's built in BLAS.  However, if you ***
+ *** install an optimized BLAS such as OpenBLAS or the Intel MKL your code ***
+ *** will run faster.  On Ubuntu you can install OpenBLAS by executing:    ***
+ ***    sudo apt-get install libopenblas-dev liblapack-dev                 ***
+ *** Or you can easily install OpenBLAS from source by downloading the     ***
+ *** source tar file from http://www.openblas.net, extracting it, and      ***
+ *** running:                                                              ***
+ ***    make; sudo make install                                            ***
+ *****************************************************************************
+CUDA_TOOLKIT_ROOT_DIR not found or specified

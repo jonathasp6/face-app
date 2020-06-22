@@ -1,0 +1,18 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: /home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/ninja" "cmTC_54caa"
+[1/2] Building CXX object CMakeFiles/cmTC_54caa.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_54caa
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: /home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/ninja" "cmTC_c1121"
+[1/2] Building CXX object CMakeFiles/cmTC_c1121.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_c1121
+
+Source file was:
+int main() { return 0; }

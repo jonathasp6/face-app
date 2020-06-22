@@ -1,0 +1,3 @@
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/opencv411/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/opencv411/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/opencv411/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir

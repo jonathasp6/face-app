@@ -1,0 +1,46 @@
+-- Check for working C compiler: /home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+-- Check for working C compiler: /home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++
+-- Check for working CXX compiler: /home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using CMake version: 3.6.0-rc2
+-- Compiling dlib version: 19.17.0
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- __ARM_NEON__ defined.
+-- NEON instructions will be used for libpng.
+-- The ASM compiler identification is Clang
+-- Found assembler: /home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+-- Searching for BLAS and LAPACK
+-- Searching for BLAS and LAPACK
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Checking for module 'cblas'
+--   No package 'cblas' found
+-- Checking for module 'lapack'
+--   No package 'lapack' found
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void*
+-- Check size of void* - done
+-- Could NOT find CUDA (missing:  CUDA_TOOLKIT_ROOT_DIR CUDA_NVCC_EXECUTABLE CUDA_INCLUDE_DIRS CUDA_CUDART_LIBRARY) (Required is at least version "7.5")
+-- DID NOT FIND CUDA
+-- Disabling CUDA support for dlib.  DLIB WILL NOT USE CUDA
+-- Building a C++11 test project to see if your compiler supports C++11
+-- C++11 activated.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a

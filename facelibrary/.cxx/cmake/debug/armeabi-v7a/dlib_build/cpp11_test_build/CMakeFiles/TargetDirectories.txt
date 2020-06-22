@@ -1,0 +1,3 @@
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/cpp11_test_build/CMakeFiles/edit_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/cpp11_test_build/CMakeFiles/rebuild_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/cpp11_test_build/CMakeFiles/cpp11_test.dir

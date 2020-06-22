@@ -1,0 +1,6 @@
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/face.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/edit_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/jonathas/AndroidStudioProjects/face-app/facelibrary/.cxx/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/dlib.dir

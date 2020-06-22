@@ -1,0 +1,6 @@
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/CMakeFiles/face.dir
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/CMakeFiles/edit_cache.dir
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/CMakeFiles/dlib.dir

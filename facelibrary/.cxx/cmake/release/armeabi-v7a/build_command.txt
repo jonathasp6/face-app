@@ -1,0 +1,20 @@
+Executable : /home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/home/jonathas/face-app/facelibrary/src/main/cpp
+-B/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/jonathas/face-app/facelibrary/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/home/jonathas/Android/Sdk/ndk/21.0.6113669
+-DCMAKE_CXX_FLAGS=-O3
+-DCMAKE_TOOLCHAIN_FILE=/home/jonathas/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+-DANDROID_PLATFORM=android-16
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_CPP_FEATURES=rtti exceptions
+jvmArgs : 
+

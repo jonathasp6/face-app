@@ -1,0 +1,40 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/jonathas/face-app/facelibrary/cppLibs/dlib/cmake_utils/test_for_cpp11/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"cpp11_test-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cpp11_test",
+			"buildCommand" : "/home/jonathas/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build --target cpp11_test",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fPIC   -std=c++11  -c ",
+					"src" : "/home/jonathas/face-app/facelibrary/cppLibs/dlib/cmake_utils/test_for_cpp11/cpp11_test.cpp",
+					"workingDirectory" : "/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build"
+				}
+			],
+			"output" : "/home/jonathas/face-app/facelibrary/.cxx/cmake/release/armeabi-v7a/dlib_build/cpp11_test_build/libcpp11_test.a",
+			"toolchain" : "2702250084684715835"
+		}
+	},
+	"toolchains" : 
+	{
+		"2702250084684715835" : 
+		{
+			"cCompilerExecutable" : "/home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/jonathas/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}
