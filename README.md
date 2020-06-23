@@ -1,2 +1,4 @@
 # face-app
-Extract the face parementer using dlib and opencv
+Android app for extract the face parementers using dlib and opencv.
+
+Don't forget to give permission
